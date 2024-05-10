@@ -1,0 +1,14 @@
+/Users/luanvu/bankoop/bin/Debug/net8.0/bankoop
+/Users/luanvu/bankoop/bin/Debug/net8.0/bankoop.deps.json
+/Users/luanvu/bankoop/bin/Debug/net8.0/bankoop.runtimeconfig.json
+/Users/luanvu/bankoop/bin/Debug/net8.0/bankoop.dll
+/Users/luanvu/bankoop/bin/Debug/net8.0/bankoop.pdb
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.AssemblyInfoInputs.cache
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.AssemblyInfo.cs
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.csproj.CoreCompileInputs.cache
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.dll
+/Users/luanvu/bankoop/obj/Debug/net8.0/refint/bankoop.dll
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.pdb
+/Users/luanvu/bankoop/obj/Debug/net8.0/bankoop.genruntimeconfig.cache
+/Users/luanvu/bankoop/obj/Debug/net8.0/ref/bankoop.dll
